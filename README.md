@@ -1,2 +1,2 @@
-# hardware
-everything about hardware, programming and circuits
+# Hardware
+Everything about hardware, programming, circuits and diagrams
